@@ -1,4 +1,4 @@
-## Kolluri-Vechicel_Insurance_Classifier
+# Kolluri-Vechicel_Insurance_Classifier
 
 # Dataset: 
 
@@ -43,4 +43,10 @@ Response -> 0/1 (binary) (response)
 Task
 ====
 **Predict whether customer is interested in vehicle insurance based.**
+
+Performed Oversampling and Undersampling 
+=====================================
+* Smote (Synthetic Minority Oversampling Technique)-(OverSampling).
+* NearMiss (UnderSampling).
+
 
