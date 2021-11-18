@@ -1,7 +1,7 @@
-# Kolluri-Vechicel_Insurance_Classifier
+## Kolluri-Vechicel_Insurance_Classifier
 Predict whether customer is interested in vehicle insurance based.
 
-## Dataset: 
+# Dataset: 
 
 Information about Dataset:
 =========================
