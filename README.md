@@ -3,6 +3,9 @@ Predict whether customer is interested in vehicle insurance based.
 
 ## Dataset: 
 
+Information about Dataset:
+=========================
+
 Demographics (gender, age, region code type),
 
 Vehicles (Vehicle Age, Damage),
@@ -10,8 +13,8 @@ Vehicles (Vehicle Age, Damage),
 Policy (Premium, sourcing channel) etc.
 
 
-### attributes
-==========
+Attributes
+===========
 
 id -> unique identity (int)             
 
@@ -36,3 +39,6 @@ Policy_Sales_Channel  -> (int)
 Vintage -> (int)
 
 Response -> 0/1 (binary) (response)        
+
+## Task
+========
