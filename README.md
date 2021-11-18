@@ -44,9 +44,15 @@ Task
 ====
 **Predict whether customer is interested in vehicle insurance based.**
 
-Performed Oversampling and Undersampling 
-=====================================
+Oversampling and Undersampling 
+==============================
 * Smote (Synthetic Minority Oversampling Technique)-(OverSampling).
 * NearMiss (UnderSampling).
 
+Performed Models
+================
+* Model-1 : Logistic Regression.
+* Model-2 : RandomForest.
+* Model-3 : Gradient Boosting.
+* Hyperparameter Tuning 
 
