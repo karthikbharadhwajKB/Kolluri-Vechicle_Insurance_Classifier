@@ -1,5 +1,4 @@
 ## Kolluri-Vechicel_Insurance_Classifier
-Predict whether customer is interested in vehicle insurance based.
 
 # Dataset: 
 
@@ -40,5 +39,8 @@ Vintage -> (int)
 
 Response -> 0/1 (binary) (response)        
 
-## Task
-========
+
+Task
+====
+**Predict whether customer is interested in vehicle insurance based.**
+
