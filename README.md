@@ -1,4 +1,4 @@
-# Kolluri-Vechicle_Insurance_Classifier
+# Kolluri-Vechicle_Insurance_Classifier with Imbalanced Dataset
 
 # Dataset: 
 
