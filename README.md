@@ -1,4 +1,4 @@
-# Kolluri-Vechicel_Insurance_Classifier
+# Kolluri-Vechicle_Insurance_Classifier
 
 # Dataset: 
 
