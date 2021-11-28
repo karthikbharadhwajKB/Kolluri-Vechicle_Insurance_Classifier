@@ -42,7 +42,7 @@ Response -> 0/1 (binary) (response)
 
 Task
 ====
-**Predict whether customer is interested in vehicle insurance based.**
+**Predict whether customer is interested in vehicle insurance based on previous vehicle insurance.**
 
 Oversampling and Undersampling 
 ==============================
